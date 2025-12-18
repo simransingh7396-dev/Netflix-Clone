@@ -25,5 +25,5 @@ This project demonstrates advanced mastery of raw CSS layout techniques, replica
 <img width="1893" height="514" alt="image" src="https://github.com/user-attachments/assets/7ade375f-fe2e-4005-a465-e153dc81e869" />
 
 
-*Developed by Simran Singh | [LiveDemo]()*
+*Developed by Simran Singh | [LiveDemo](https://simransingh7396-dev.github.io/Netflix-Clone/)*
 ---
